@@ -1,0 +1,23 @@
+clear
+touch - to make a file
+code . - to open vscode
+mkdir - make directory folder
+cd - change directory
+
+git config user.name = to change username
+
+Control panel> User Account > Credential Manager
+
+ls list
+
+modify - 1st  stage red pa
+
+staging area add - 2nd stage  green na sya 
+
+git commit -m ("mesage")
+
+git init to initialize
+git staus - modified if color red
+git add app.js
+
+git add . - to add all
